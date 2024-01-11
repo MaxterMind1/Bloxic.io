@@ -1,2 +1,0 @@
-# Bloxic
- Bloxic WebPage
